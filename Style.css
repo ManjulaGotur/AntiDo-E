@@ -41,11 +41,6 @@
         }
     }
 
-    /* LOGIN MODAL */
-    #loginModal-btn{
-       
-    }
-
 
     /***** CARROUSEL ******/
 
@@ -53,10 +48,7 @@
         padding-top: 3.625rem;
         width: 100%;
     }
-    /* .carousel slide{
-        height: 100px;
-    } */
-
+    
     #carousel-caption-1 h5{
         color:gold;
         font-size: 3rem;
@@ -193,7 +185,8 @@
 
     }
     #help-content {
-        background-color: cadetblue;
+        background-color: rgb(58, 65, 151);
+        text-decoration: underline;
     }
 
     #help-text {
